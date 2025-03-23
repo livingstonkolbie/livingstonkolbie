@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Web Developer & Cybersecurity Strategist     
 :eight_spoked_asterisk: Available for work
 
-*   🌍  I'm based in the USA
+*   🌍  I'm based in the USA (Central Standard Time Zone)
 *   🖥️  See my portfolio at [kolbielivingston.com](http://)
 *   ✉️  You can contact me at [livingston.kolbie@gmail.com](mailto:livingston.kolbie@gmail.com)
 
