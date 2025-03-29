@@ -22,7 +22,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\Configure-EccCurves.ps1
+    PS C:\> .\STIG-ID-WN10-CC-000052.ps1
 #>
 
 # Registry path and value configuration
