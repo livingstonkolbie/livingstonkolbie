@@ -22,7 +22,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:> .\Set-LocalAccountTokenFilterPolicy.ps1
+    PS C:> .\STIG-ID-WN10-CC-000037.ps1
 #>
 
 # Check if running with administrator privileges
