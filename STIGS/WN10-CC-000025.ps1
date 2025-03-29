@@ -22,7 +22,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:> .\Set-DisableIPSourceRouting.ps1
+    PS C:> .\STIG-ID-WN10-CC-000025.ps1
 #>
 
 # PowerShell script to disable IP source routing
