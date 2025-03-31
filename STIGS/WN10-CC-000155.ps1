@@ -1,13 +1,13 @@
 <#
 .SYNOPSIS
-    This script effectively disables Windows Remote Assistance functionality to comply with security requirements.
+    This PowerShell script creates the necessary registry path if it doesn't exist and sets the value to 0 in the Terminal Services registry location, effectively disabling Windows Remote Assistance functionality to comply with security requirements.
 
 .NOTES
     Author          : Kolbie Livingston
     LinkedIn        : linkedin.com/in/kolbielivingston/
     GitHub          : github.com/livingstonkolbie
-    Date Created    : 2025-03-30
-    Last Modified   : 2025-03-30
+    Date Created    : 2025-03-31
+    Last Modified   : 2025-03-31
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
