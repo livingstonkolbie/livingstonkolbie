@@ -9,8 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### :computer: Web Development Projects :iphone:
 
-- **[Portfolio Site](https://livingstonkolbie.github.io/KL-Portfolio-3/)**
 - **[Meme Simon Game](https://livingstonkolbie.github.io/Meme-Simon/)**
+- **[Portfolio Site](https://livingstonkolbie.github.io/KL-Portfolio-3/)**
 
 ### ⚠️ Cybersecurity Labs/Projects 🚨
 
