@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 :eight_spoked_asterisk: Available to work
 
 *   🌍  I'm based in the USA (Central Standard Time Zone)
-*   🖥️  See my portfolio [here](https://livingstonkolbie.github.io/KL-Portfolio-3/) (NEW Portfolio on the way)
+*   🖥️  See my portfolio [here](https://livingstonkolbie.github.io/KL-Portfolio-3/)
 *   ✉️  You can contact me at [livingston.kolbie@gmail.com](mailto:livingston.kolbie@gmail.com)
 
 ### :computer: Web Development Projects :iphone:
 
-- **[Portfolio Site](https://livingstonkolbie.github.io/KL-Portfolio-3/)** (New Portfolio on the way)
+- **[Portfolio Site](https://livingstonkolbie.github.io/KL-Portfolio-3/)**
 
 ### ⚠️ Cybersecurity Labs/Projects 🚨
 
